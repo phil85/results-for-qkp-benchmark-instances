@@ -9,11 +9,11 @@ found in the PDF-Files below:
 
 [Collection Dispersion-QKP-geo](Dispersion-QKP%20with%20strategy%20geo_detailed_results.pdf)
 
-[Collection Dispersion-QKP-wgeo]("Dispersion-QKP with strategy wgeo_detailed_results.pdf")
+[Collection Dispersion-QKP-wgeo]("Dispersion-QKP%20with%20strategy%20wgeo_detailed_results.pdf")
 
-[Collection Dispersion-QKP-expo]("Dispersion-QKP with strategy expo_detailed_results.pdf")
+[Collection Dispersion-QKP-expo]("Dispersion-QKP%20with%20strategy%20expo_detailed_results.pdf")
 
-[Collection Dispersion-QKP-ran]("Dispersion-QKP with strategy ran_detailed_results.pdf")
+[Collection Dispersion-QKP-ran]("Dispersion-QKP%20with%20strategy%20ran_detailed_results.pdf")
 
 [Collection TeamFormation-QKP-1](TeamFormation-QKP-1_detailed_results.pdf)
 
