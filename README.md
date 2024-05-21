@@ -3,9 +3,9 @@
 The detailed results for the five collection of benchmark instances can be 
 found in the PDF-Files below:
 
-[Collection Standard-QKP](Tables/Standard-QKP_detailed_results.pdf)
+[Collection Standard-QKP](tables/Standard-QKP_detailed_results.pdf)
 
-[Collection New-QKP](Tables/New-QKP_detailed_results.pdf)
+[Collection New-QKP](tables/New-QKP_detailed_results.pdf)
 
 [Collection Dispersion-QKP-geo](tables/Dispersion-QKP%20with%20strategy%20geo_detailed_results.pdf)
 
