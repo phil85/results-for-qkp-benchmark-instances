@@ -22,3 +22,5 @@ found in the PDF-Files below:
 [Collection TeamFormation-QKP-1](tables/TeamFormation-QKP-1_detailed_results.pdf)
 
 [Collection TeamFormation-QKP-2](tables/TeamFormation-QKP-2_detailed_results.pdf)
+
+[Collection TeamFormation-QKP-2 (extended time limit)](tables/TeamFormation-QKP-2_detailed_results_time_limit_3600.pdf)
