@@ -1,6 +1,6 @@
 # Detailed results for QKP benchmark instances
 
-The detailed results for the five collection of benchmark instances can be 
+The detailed results for the collections of benchmark instances can be 
 found in the PDF-Files below:
 
 [Collection Standard-QKP](tables/Standard-QKP_detailed_results.pdf)
@@ -24,3 +24,23 @@ found in the PDF-Files below:
 [Collection TeamFormation-QKP-2](tables/TeamFormation-QKP-2_detailed_results.pdf)
 
 [Collection TeamFormation-QKP-2 (extended time limit)](tables/TeamFormation-QKP-2_detailed_results_time_limit_3600.pdf)
+
+## Reference
+
+Please cite the following paper if you use this repository.
+
+**Hochbaum, D. S., Baumann, P., Goldschmidt O., Zhang Y.** (2024): A Fast and Effective Breakpoints Algorithm for the Quadratic Knapsack Problem. under review.
+
+Bibtex:
+```
+@article{hochbaum2024fast,
+	author={Hochbaum, Dorit S., Baumann, Philipp, Goldschmidt Olivier and Zhang Yiqing},
+	title = {A Fast and Effective Breakpoints Algorithm for the Quadratic Knapsack Problem},
+	year={2024},
+	journal = {under review},
+}
+```
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
