@@ -5,7 +5,11 @@ found in the PDF-Files below:
 
 [Collection Standard-QKP](tables/Standard-QKP_detailed_results.pdf)
 
-[Collection New-QKP](tables/New-QKP_detailed_results.pdf)
+[Collection Large-QKP](tables/Large-QKP_detailed_results.pdf)
+
+[Collection QKPGroupII](tables/QKPGroupII_detailed_results.pdf)
+
+[Collection QKPGroupIII](tables/QKPGroupIII_detailed_results.pdf)
 
 [Collection Dispersion-QKP-geo](tables/Dispersion-QKP%20with%20strategy%20geo_detailed_results.pdf)
 
